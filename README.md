@@ -7,6 +7,7 @@ Compiling material from various courses that I take. I'm an ECE student, thus th
 ```
 - Analog Electronic Circuits (AEC)
 - Information and Communication (InfoComm)
-- VLSI Design (VLSI)
 - Linear Algebra (LA)
+- VLSI Design (VLSI)
+- Probability and Random Processes (PRP)
 ```
