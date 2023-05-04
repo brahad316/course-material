@@ -10,4 +10,5 @@ Compiling material from various courses that I take. I'm an ECE student, thus th
 - Linear Algebra (LA)
 - VLSI Design (VLSI)
 - Probability and Random Processes (PRP)
+- Systems Thinking (ST)
 ```
