@@ -11,4 +11,5 @@ Compiling material from various courses that I take. I'm an ECE student, thus th
 - VLSI Design (VLSI)
 - Probability and Random Processes (PRP)
 - Systems Thinking (ST)
+- Signal Processing (SP)
 ```
