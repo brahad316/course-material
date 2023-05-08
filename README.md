@@ -8,6 +8,7 @@ Compiling material from various courses that I take. I'm an ECE student, thus th
 - Analog Electronic Circuits (AEC)
 - Information and Communication (InfoComm)
 - Linear Algebra (LA)
+- Real Analysis (RA) 
 - VLSI Design (VLSI)
 - Probability and Random Processes (PRP)
 - Systems Thinking (ST)
